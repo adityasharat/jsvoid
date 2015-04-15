@@ -1,0 +1,1 @@
+Here you will find my thoughts on web development spanning from "How to name classes" to "How to develop large scale applications". Most of the articles are based on my experience and what I learned from sources of many open source projects. I would love to debate on these topics with you and learn more from you. :)
